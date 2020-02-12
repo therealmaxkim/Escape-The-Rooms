@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    color: #BB543E;
+}
+.top {
+    text-align: center;
+}
+.mid {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.bot {
+    text-align: center;
+}
+.inv {
+    font-size: 20px;
+    text-align: center;
+    color: #321FBD;
+    border: 1px solid blue;
+}
+ul {
+    text-align: center;
+    list-style: inside;
+}
