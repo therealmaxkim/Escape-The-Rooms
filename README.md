@@ -14,7 +14,7 @@ Map (numbers are rooms, start on room 1):
 7---6---5 <br />
 14--12--13 <br />
 
-Legend:
+Legend: <br />
 11 is a "good exit" <br />
 10 is a "bad exit" <br />
 2 has an Umbrella <br />
