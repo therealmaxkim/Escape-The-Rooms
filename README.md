@@ -9,10 +9,10 @@ Features:
 Map (numbers are rooms, start on room 1):
 
 11 <br />
-9   2   3 <br />
-8   1   4   10 <br />
-7   6   5 <br />
-14  12  13 <br />
+9---2---3 <br />
+8---1---4--10 <br />
+7---6---5 <br />
+14--12--13 <br />
 
 Legend:
 11 is a "good exit" <br />
